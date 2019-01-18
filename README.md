@@ -1,5 +1,5 @@
 # Physteroids #
-A game called physteroids. *steroids Game which simulates more realistic space combat. The main reason-d'etre of this game is to learn javascript and node.js
+A game called physteroids. *steroids Game which simulates more realistic space combat. The main reason-d'etre of this game is to learn javascript and node.js and to help an IT friend learn programming.
 
 Relies heavily on the physics / resolution engine matter.js
 
